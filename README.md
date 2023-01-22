@@ -9,4 +9,5 @@ I don't plan to further update the file as of this time. However, I will revisit
 Download and execute the python file
 
 ##Contact Info:
-LinkedIn: https://www.linkedin.com/in/thanh-tung-nguyen-17135b258/
+LinkedIn: 
+https://www.linkedin.com/in/thanh-tung-nguyen-17135b258/
