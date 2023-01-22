@@ -8,6 +8,6 @@ I don't plan to further update the file as of this time. However, I will revisit
 ## Instructions
 Download and execute the python file
 
-##Contact Info:
+## Contact Info:
 LinkedIn: 
 https://www.linkedin.com/in/thanh-tung-nguyen-17135b258/
