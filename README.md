@@ -5,6 +5,8 @@ An AI that plays the game 2048 using the Minimax algorithm
 This is a small 2048 AI I wrote for a project at school, which applies the minimax search tree algorithm, web-scraping techniques and heuristical evaluation.
 I don't plan to further update the file as of this time. However, I will revisit this project when the time comes.
 
+Currently, I'm not looking for public contributions, but you are welcome to fork the project anyways.
+
 ## Instructions
 Download and execute the python file
 
