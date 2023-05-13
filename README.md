@@ -8,6 +8,7 @@ I don't plan to further update the file as of this time. However, I will revisit
 Currently, I'm not looking for public contributions, but you are welcome to fork the project anyways.
 
 ## Instructions
+Install bs4 and Selenium with pip
 Download and execute the python file
 
 ## Contact Info:
